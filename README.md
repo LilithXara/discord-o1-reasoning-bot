@@ -1,5 +1,5 @@
 
-# O1 Discord Bot
+# OpenAI o1 and o1 Mini- Discord Bot
 
 ## Overview
 
